@@ -36,6 +36,6 @@ Install pre-requisites such as
   npm run dev
 
   
+Add the .env file aswell
 
-```
     
